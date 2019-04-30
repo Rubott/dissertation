@@ -12395,3 +12395,14 @@ document.addEventListener('DOMContentLoaded', function() {
   // Initialize collapsible (uncomment the lines below if you use the dropdown variation)
   var collapsibleElem = document.querySelector('.collapsible');
   var collapsibleInstance = M.Collapsible.init(collapsibleElem, options);
+
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.fixed-action-btn');
+    var instances = M.FloatingActionButton.init(elems, options);
+  });
+
+  // Or with jQuery
+
+  $(document).ready(function(){
+    $('.fixed-action-btn').floatingActionButton();
+  });
