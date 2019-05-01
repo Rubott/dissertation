@@ -1,4 +1,4 @@
-# dissertation
+# Dissertation
 An exploration and generation of a website on being transgender
 
 A place where people who are possibily questioning whether they themselve are transgender, or if they have a friend or family member who is transgender, and wish to learn more about the topic in order to be a better ally to those in the trans community.
